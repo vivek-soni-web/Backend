@@ -1,0 +1,12 @@
+{
+  "name": "part-2-p.j",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Vivek Soni",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
