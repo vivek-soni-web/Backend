@@ -1,0 +1,22 @@
+{
+  "name": "part-3",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Vivek Soni",
+  "type": "commonjs",
+  "main": "2script.js",
+  "scripts": {
+    "start": "node script.js",
+    "chacha": "echo \"this is good\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "accessibility": "^3.0.9",
+    "chalk": "^6.0.0",
+    "one-liner-joke": "^1.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
