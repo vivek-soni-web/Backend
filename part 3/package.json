@@ -7,8 +7,8 @@
   "type": "commonjs",
   "main": "2script.js",
   "scripts": {
-    "start": "node script.js",
-    "chacha": "echo \"this is good\"",
+    "start": "node 2script.js",
+    "chacha": "echo\"\u001b[36mRuning tests...\u001b[39m\" && node script.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {

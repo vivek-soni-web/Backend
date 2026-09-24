@@ -26,9 +26,11 @@
 // npm run dev
 // npm run concurrent
 // // eaisa kyu kabhi kabhi ham script me run likhte hai kabhi kabhi nhi likhte hai  
-// => start test
+// => start test (node.js ne ye dono command operating system ke table me install ya create kar diye the)
+// npm chachaye nhi run karega kyuki ye hamne banaya hai to iske aage mughe run add karna padata hai   (npm run chacha)
 
 // script - understanding default scripts PATH and custom script 
+
 
 
 console.log("hello world");
